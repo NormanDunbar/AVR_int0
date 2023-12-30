@@ -1,0 +1,23 @@
+#######################################
+# Syntax Coloring Map
+#######################################
+
+#######################################
+# Classes (KEYWORD1)
+#######################################
+AVRint0	KEYWORD1
+AVR_int0	KEYWORD1
+
+#######################################
+# Class Methods & Functions (KEYWORD2)
+#######################################
+int0	KEYWORD2
+
+######################################
+# Others Constants (LITERAL1)
+#######################################
+trigger_t	LITERAL1
+TRGR_LOW	LITERAL1
+TRGR_CHANGE	LITERAL1
+TRGR_FALLING	LITERAL1
+TRGR_RISING	LITERAL1
